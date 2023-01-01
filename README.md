@@ -1,5 +1,5 @@
 # xlcalc.github.io
 
-These are my first steps in using GitHub. Please check out Text Gapper for language learners at https://xlcalc.github.io/gapper
+These are just my first steps in using GitHub. Check out **Text Gapper**, a tool for language learners, at <https://xlcalc.github.io/gapper/>
 
-Another project of mine, [Audiodrill](https://audiodrill.com), has not yet moved to GitHub.
+Another, much bigger project, [**Audiodrill**](https://audiodrill.com), has not moved to GitHub yet.
